@@ -1,0 +1,15 @@
+bond_id,issuer,sector,rating,coupon_rate,years_to_maturity,price
+TC01,Alpine Semiconductor,Technology,A,0.0475,5,101.20
+TC02,Northbridge Software,Technology,A,0.0490,5,100.55
+TC03,Falcon Cloud Systems,Technology,BBB,0.0550,5,99.10
+TC04,Vertex Data Networks,Technology,BBB,0.0565,5,97.40
+IN01,Ironhaus Manufacturing,Industrials,A,0.0500,7,101.80
+IN02,Cascade Materials Group,Industrials,A,0.0510,7,100.90
+IN03,Meridian Logistics,Industrials,BBB,0.0580,7,98.60
+IN04,Overland Freight Corp,Industrials,BBB,0.0605,7,95.75
+FN01,Harborview Financial,Financials,A,0.0460,10,100.40
+FN02,Summit Capital Bank,Financials,A,0.0470,10,99.85
+FN03,Redgate Holdings,Financials,BBB,0.0545,10,96.90
+FN04,Pinecrest Credit Group,Financials,BBB,0.0575,10,93.80
+HY01,Anchorline Retail,Consumer,BB,0.0700,5,94.50
+HY02,Brightpath Media,Consumer,BB,0.0725,5,91.20
